@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Krypton-46
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me @Github
 
