@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krypton-46 (Musab Ismail)
+- 👋 Hi, I’m Musab Ismail
 - 📫 I am doing Bachelors in Software Engineering from PUCIT
 - 👀 I’m interested in Web Development
 - 💞️ I’m looking to collaborate on Projects
